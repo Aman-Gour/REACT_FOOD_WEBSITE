@@ -21,7 +21,7 @@ function Testimonial() {
                 <AiFillStar/>
                 <AiFillStar/>
             </div>
-            <h2>John Doe</h2>
+            <h2>Aman</h2>
         </div>
     </div>
   )

@@ -2,7 +2,6 @@ import React from "react";
 import Logo from "../Assets/Logo.svg";
 import { BsTwitter } from "react-icons/bs";
 import { SiLinkedin } from "react-icons/si";
-import { BsYoutube } from "react-icons/bs";
 import { FaFacebookF } from "react-icons/fa";
 
 const Footer = () => {
@@ -15,7 +14,6 @@ const Footer = () => {
         <div className="footer-icons">
           <BsTwitter />
           <SiLinkedin />
-          <BsYoutube />
           <FaFacebookF />
         </div>
       </div>
@@ -29,9 +27,8 @@ const Footer = () => {
           <span>Work</span>
         </div>
         <div className="footer-section-columns">
-          <span>244-5333-7783</span>
-          <span>77/A</span>
-          <span>Nawala,Colombo</span>
+          <span>987-654-3210</span>
+          <span>Jodhpur, Rajasthan</span>
           <span>foodie@gmail.com</span>
         </div>
         <div className="footer-section-columns">
